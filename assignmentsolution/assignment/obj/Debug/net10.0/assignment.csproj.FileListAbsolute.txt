@@ -1,0 +1,15 @@
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\obj\Debug\net10.0\assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\obj\Debug\net10.0\assignment.AssemblyInfoInputs.cache
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\obj\Debug\net10.0\assignment.AssemblyInfo.cs
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\obj\Debug\net10.0\assignment.csproj.CoreCompileInputs.cache
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\bin\Debug\net10.0\assignment.exe
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\bin\Debug\net10.0\assignment.deps.json
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\bin\Debug\net10.0\assignment.runtimeconfig.json
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\bin\Debug\net10.0\assignment.dll
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\bin\Debug\net10.0\assignment.pdb
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\obj\Debug\net10.0\assignment.dll
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\obj\Debug\net10.0\refint\assignment.dll
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\obj\Debug\net10.0\assignment.pdb
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\obj\Debug\net10.0\assignment.genruntimeconfig.cache
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\obj\Debug\net10.0\ref\assignment.dll
+D:\courses\route course back-end.Net\assignment_1\assignmentsolution\assignment\obj\Debug\net10.0\assignment.csproj.Up2Date
